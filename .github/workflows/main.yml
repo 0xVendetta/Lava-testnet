@@ -1,4 +1,4 @@
-name: Ethereum, NEAR, StarkNet, and Axelar Auto Commit
+name: Ethereum, NEAR, StarkNet, and Axelar Auto Commit Bot
 
 on:
   push:
